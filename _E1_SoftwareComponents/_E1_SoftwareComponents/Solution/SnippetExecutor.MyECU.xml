@@ -1,0 +1,1552 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuildSnippetExecution xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.vector.com/vtt/buildsnippets">
+  <ExecutionOrder>
+    <Settings>
+      <Compiler>VisualStudio2013</Compiler>
+      <RootDirectory>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\</RootDirectory>
+    </Settings>
+    <Project>
+      <ProjectName>MyECU</ProjectName>
+      <ProjectDirectory>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Solution\MyECU</ProjectDirectory>
+      <BswDirectory>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW</BswDirectory>
+      <GenDataDirectory>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt</GenDataDirectory>
+      <SourceDirectory>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\Source</SourceDirectory>
+      <EcucFiles>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Config\ECUC\MyECU.ecuc.arxml</File>
+      </EcucFiles>
+      <BuildSnippets>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Adc_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\AvTp_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\BswM_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Cal_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Can_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\CanIf_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\CanNm_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\CANoeEmu_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\CanSM_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\CanTp_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\CanTSyn_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Cdd_CanTp_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Cdd_FrTp_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Cdd_LinTp_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Com_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\ComM_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Common_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\ComXf_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Cpl_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Crc_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Csm_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Dbg_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Dcm_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Dem_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Det_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Dio_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Dlt_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\DoIP_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Ea_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\EcuM_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Eep_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Eth_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\EthIf_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\EthSM_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\EthTrcv_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\EthTSyn_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Fee_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\FiM_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Fls_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Fr_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\FrIf_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\FrNm_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\FrSM_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\FrTSyn_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\GenData_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Gpt_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Icu_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\IoHwAb_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\IpduM_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Issm_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\J1939Dcm_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\J1939Nm_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\J1939Rm_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\J1939Tp_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\LdCom_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Lin_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\LinIf_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\LinNm_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\LinSM_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\LinTp_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Mcu_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\MemIf_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Nm_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\NvM_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Os_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\PduR_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Port_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Pwm_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\RamTst_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Rte_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Rtm_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Sd_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\SecOC_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\SoAd_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\SomeIp_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\SomeIpXf_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Spi_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\StbM_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\TcpIp_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Tp_Iso10681_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\UdpNm_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\VStdLib_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\VTTCntrl_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Wdg_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\WdgIf_TTTech_VTTmake.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\WdgIf_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\WdgM_TTTech_VTTmake.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\WdgM_VTTbuild.cs</File>
+        <File>C:\Users\nituser\Desktop\Autosar homework\M2\E1\Misc\VTT\VTTbuild\Xcp_VTTbuild.cs</File>
+      </BuildSnippets>
+    </Project>
+  </ExecutionOrder>
+  <ExecutionResult>
+    <MainFunction>
+      <FunctionName>main</FunctionName>
+      <IncludeFileName>main.h</IncludeFileName>
+    </MainFunction>
+    <StateChangeFunctions>
+      <Function>
+        <FunctionName>VttRte_OnStateChange</FunctionName>
+        <IncludeFileName>Vtt_Rte.h</IncludeFileName>
+      </Function>
+      <Function>
+        <FunctionName>VttCan_OnStateChange</FunctionName>
+        <IncludeFileName>VttCntrl_Can.h</IncludeFileName>
+      </Function>
+      <Function>
+        <FunctionName>VttCntrl_Base_OnStateChange</FunctionName>
+        <IncludeFileName>VttCntrl_Base.h</IncludeFileName>
+      </Function>
+      <Function>
+        <FunctionName>VttCntrl_Det_OnStateChange</FunctionName>
+        <IncludeFileName>VttCntrl_Det.h</IncludeFileName>
+      </Function>
+      <Function>
+        <FunctionName>VttDio_OnStateChange</FunctionName>
+        <IncludeFileName>VttCntrl_Dio.h</IncludeFileName>
+      </Function>
+      <Function>
+        <FunctionName>VttFls_OnStateChange</FunctionName>
+        <IncludeFileName>VttCntrl_Fls.h</IncludeFileName>
+      </Function>
+      <Function>
+        <FunctionName>VttMcu_OnStateChange</FunctionName>
+        <IncludeFileName>VttCntrl_Mcu.h</IncludeFileName>
+      </Function>
+    </StateChangeFunctions>
+    <Interrupts />
+    <ConfigureNumberOfInterruptsFromOs>true</ConfigureNumberOfInterruptsFromOs>
+    <NumberOfCores>1</NumberOfCores>
+    <NumberOfInterrupts>256</NumberOfInterrupts>
+    <NumberOfInterruptLevels>8</NumberOfInterruptLevels>
+    <NumberOfNmiLevels>0</NumberOfNmiLevels>
+    <NumberOfSystemTimers>1</NumberOfSystemTimers>
+    <NumberOfHighResolutionTimers>0</NumberOfHighResolutionTimers>
+    <ModuleDefinitionFile>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttCANoeEmu\CANoeEmu.def</ModuleDefinitionFile>
+    <IncludeDirectories>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\BswM</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\CanIf</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\CanNm</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttCANoeEmu</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\CanSM</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Com</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\ComM</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Vtt_Common</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Crc</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Dem</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Det</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\EcuM</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Fee</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt/Components</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\MemIf</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Nm</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\NvM</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\PduR</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VStdLib</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttCan</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VTTCntrl</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttDio</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttFls</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttMcu</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+      <IncludeDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttOs</Path>
+        <Variant>All</Variant>
+      </IncludeDirectory>
+    </IncludeDirectories>
+    <PreprocessorDefinitions />
+    <LibraryDirectories>
+      <LibraryDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttCANoeEmu</Path>
+        <Variant>All</Variant>
+      </LibraryDirectory>
+      <LibraryDirectory>
+        <Path>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttOs</Path>
+        <Variant>All</Variant>
+      </LibraryDirectory>
+    </LibraryDirectories>
+    <Libraries>
+      <Library>
+        <LibraryName>CanoeEmu_VC120_R.lib</LibraryName>
+        <Variant>Release</Variant>
+      </Library>
+      <Library>
+        <LibraryName>CanoeEmu_VC120_D.lib</LibraryName>
+        <Variant>Debug</Variant>
+      </Library>
+      <Library>
+        <LibraryName>OsekEmu_VC100_XR.lib</LibraryName>
+        <Variant>Release</Variant>
+      </Library>
+      <Library>
+        <LibraryName>OsekEmu_VC100_XD.lib</LibraryName>
+        <Variant>Debug</Variant>
+      </Library>
+    </Libraries>
+    <SourceFiles>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\BswM\BswM.c</FilePath>
+        <Folder>BswM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\BswM\BswM.h</FilePath>
+        <Folder>BswM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\BswM_Cfg.h</FilePath>
+        <Folder>BswM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\BswM_Lcfg.c</FilePath>
+        <Folder>BswM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\BswM_PBcfg.c</FilePath>
+        <Folder>BswM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\BswM_Private_Cfg.h</FilePath>
+        <Folder>BswM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\Source\BswM_Callout_Stubs.c</FilePath>
+        <Folder>BswM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\CanIf\CanIf.c</FilePath>
+        <Folder>CanIf</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\CanIf\CanIf.h</FilePath>
+        <Folder>CanIf</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\CanIf\CanIf_Types.h</FilePath>
+        <Folder>CanIf</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\CanIf\CanIf_Cbk.h</FilePath>
+        <Folder>CanIf</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\CanIf\CanIf_GeneralTypes.h</FilePath>
+        <Folder>CanIf</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\CanIf\CanIf_Hooks.h</FilePath>
+        <Folder>CanIf</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\CanIf_Cfg.h</FilePath>
+        <Folder>CanIf</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\CanIf_Lcfg.c</FilePath>
+        <Folder>CanIf</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\CanIf_PBcfg.c</FilePath>
+        <Folder>CanIf</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\CanIf_CanTrcv.h</FilePath>
+        <Folder>CanIf</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\CanNm\CanNm_Cbk.h</FilePath>
+        <Folder>CanNm</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\CanNm\CanNm.c</FilePath>
+        <Folder>CanNm</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\CanNm\CanNm.h</FilePath>
+        <Folder>CanNm</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\CanNm_Cfg.c</FilePath>
+        <Folder>CanNm</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\CanNm_Cfg.h</FilePath>
+        <Folder>CanNm</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\CanNm_Lcfg.c</FilePath>
+        <Folder>CanNm</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\CanNm_PBcfg.c</FilePath>
+        <Folder>CanNm</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\CANoeEmu_cfg.c</FilePath>
+        <Folder>CANoeEmu</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttCANoeEmu\CANoeAPI.h</FilePath>
+        <Folder>CANoeEmu</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttCANoeEmu\CANoeEmuProcessor.h</FilePath>
+        <Folder>CANoeEmu</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\CanSM\CanSM_BswM.h</FilePath>
+        <Folder>CanSM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\CanSM\CanSM_Cbk.h</FilePath>
+        <Folder>CanSM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\CanSM\CanSM_ComM.h</FilePath>
+        <Folder>CanSM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\CanSM\CanSM_Dcm.h</FilePath>
+        <Folder>CanSM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\CanSM\CanSM_EcuM.h</FilePath>
+        <Folder>CanSM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\CanSM\CanSM_TxTimeoutException.h</FilePath>
+        <Folder>CanSM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\CanSM\CanSM.c</FilePath>
+        <Folder>CanSM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\CanSM\CanSM.h</FilePath>
+        <Folder>CanSM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\CanSM_Cfg.h</FilePath>
+        <Folder>CanSM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\CanSM_Lcfg.c</FilePath>
+        <Folder>CanSM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Com\Com.c</FilePath>
+        <Folder>Com</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Com\Com.h</FilePath>
+        <Folder>Com</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Com_Cbk.h</FilePath>
+        <Folder>Com</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Com_Cfg.h</FilePath>
+        <Folder>Com</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Com_Lcfg.c</FilePath>
+        <Folder>Com</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Com_Lcfg.h</FilePath>
+        <Folder>Com</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Com_PBcfg.c</FilePath>
+        <Folder>Com</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Com_PBcfg.h</FilePath>
+        <Folder>Com</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Com_Types.h</FilePath>
+        <Folder>Com</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Appl_Cbk.h</FilePath>
+        <Folder>Com</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\ComM\ComM.c</FilePath>
+        <Folder>ComM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\ComM\ComM.h</FilePath>
+        <Folder>ComM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\ComM\ComM_Types.h</FilePath>
+        <Folder>ComM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\ComM\ComM_BusSM.h</FilePath>
+        <Folder>ComM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\ComM\ComM_Nm.h</FilePath>
+        <Folder>ComM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\ComM\ComM_EcuMBswM.h</FilePath>
+        <Folder>ComM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\ComM\ComM_Dcm.h</FilePath>
+        <Folder>ComM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\ComM_Lcfg.c</FilePath>
+        <Folder>ComM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\ComM_Lcfg.h</FilePath>
+        <Folder>ComM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\ComM_Cfg.h</FilePath>
+        <Folder>ComM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\ComM_GenTypes.h</FilePath>
+        <Folder>ComM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\ComM_PBcfg.h</FilePath>
+        <Folder>ComM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\ComM_PBcfg.c</FilePath>
+        <Folder>ComM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Vtt_Common\Can_GeneralTypes.h</FilePath>
+        <Folder>Common</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Vtt_Common\Compiler.h</FilePath>
+        <Folder>Common</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Vtt_Common\ComStack_Types.h</FilePath>
+        <Folder>Common</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Vtt_Common\EthTrcv_GeneralTypes.h</FilePath>
+        <Folder>Common</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Vtt_Common\Eth_GeneralTypes.h</FilePath>
+        <Folder>Common</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Vtt_Common\Fr_GeneralTypes.h</FilePath>
+        <Folder>Common</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Vtt_Common\Platform_Types.h</FilePath>
+        <Folder>Common</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Vtt_Common\Std_Types.h</FilePath>
+        <Folder>Common</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Crc\Crc.h</FilePath>
+        <Folder>Crc</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Crc\Crc.c</FilePath>
+        <Folder>Crc</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Crc_Cfg.h</FilePath>
+        <Folder>Crc</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Dem\Dem.c</FilePath>
+        <Folder>Dem</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Dem\Dem.h</FilePath>
+        <Folder>Dem</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Dem\Dem_Types.h</FilePath>
+        <Folder>Dem</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Dem\Dem_Cbk.h</FilePath>
+        <Folder>Dem</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Dem\Dem_Validation.h</FilePath>
+        <Folder>Dem</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Dem\Dem_Cdd_Types.h</FilePath>
+        <Folder>Dem</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Dem_Cfg.h</FilePath>
+        <Folder>Dem</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Dem_Lcfg.c</FilePath>
+        <Folder>Dem</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Dem_Lcfg.h</FilePath>
+        <Folder>Dem</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Dem_PBcfg.c</FilePath>
+        <Folder>Dem</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Dem_PBcfg.h</FilePath>
+        <Folder>Dem</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Det\Det.c</FilePath>
+        <Folder>Det</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Det\Det.h</FilePath>
+        <Folder>Det</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Det_cfg.h</FilePath>
+        <Folder>Det</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\EcuM\EcuM.c</FilePath>
+        <Folder>EcuM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\EcuM\EcuM.h</FilePath>
+        <Folder>EcuM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\EcuM\EcuM_Cbk.h</FilePath>
+        <Folder>EcuM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\EcuM\EcuM_Error.h</FilePath>
+        <Folder>EcuM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\EcuM_Cfg.c</FilePath>
+        <Folder>EcuM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\EcuM_Cfg.h</FilePath>
+        <Folder>EcuM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\EcuM_Generated_Types.h</FilePath>
+        <Folder>EcuM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\EcuM_Init_PBcfg.c</FilePath>
+        <Folder>EcuM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\EcuM_Init_PBcfg.h</FilePath>
+        <Folder>EcuM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\EcuM_PBcfg.c</FilePath>
+        <Folder>EcuM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\EcuM_PrivateCfg.h</FilePath>
+        <Folder>EcuM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\Source\EcuM_Callout_Stubs.c</FilePath>
+        <Folder>EcuM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Fee\Fee.c</FilePath>
+        <Folder>Fee</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Fee\Fee.h</FilePath>
+        <Folder>Fee</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Fee\Fee_Cbk.h</FilePath>
+        <Folder>Fee</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Fee\Fee_ChunkInfo.c</FilePath>
+        <Folder>Fee</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Fee\Fee_ChunkInfo.h</FilePath>
+        <Folder>Fee</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Fee\Fee_Int.h</FilePath>
+        <Folder>Fee</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Fee\Fee_IntBase.h</FilePath>
+        <Folder>Fee</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Fee\Fee_Partition.c</FilePath>
+        <Folder>Fee</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Fee\Fee_Partition.h</FilePath>
+        <Folder>Fee</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Fee\Fee_Sector.c</FilePath>
+        <Folder>Fee</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Fee\Fee_Sector.h</FilePath>
+        <Folder>Fee</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Fee\Fee_Types.h</FilePath>
+        <Folder>Fee</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Fee\Fee_Processing.c</FilePath>
+        <Folder>Fee</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Fee_Cfg.h</FilePath>
+        <Folder>Fee</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Fee_Lcfg.c</FilePath>
+        <Folder>Fee</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Fee_PrivateCfg.h</FilePath>
+        <Folder>Fee</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\MemIf\MemIf.h</FilePath>
+        <Folder>MemIf</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\MemIf\MemIf.c</FilePath>
+        <Folder>MemIf</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\MemIf\MemIf_Types.h</FilePath>
+        <Folder>MemIf</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\MemIf_Cfg.h</FilePath>
+        <Folder>MemIf</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\MemIf_Cfg.c</FilePath>
+        <Folder>MemIf</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Nm\Nm_Cbk.h</FilePath>
+        <Folder>Nm</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Nm\Nm.c</FilePath>
+        <Folder>Nm</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Nm\Nm.h</FilePath>
+        <Folder>Nm</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\Nm\NmStack_Types.h</FilePath>
+        <Folder>Nm</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Nm_Cfg.c</FilePath>
+        <Folder>Nm</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Nm_Lcfg.c</FilePath>
+        <Folder>Nm</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Nm_Cfg.h</FilePath>
+        <Folder>Nm</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\NvM\NvM.h</FilePath>
+        <Folder>NvM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\NvM\NvM_Cbk.h</FilePath>
+        <Folder>NvM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\NvM\NvM_Types.h</FilePath>
+        <Folder>NvM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\NvM\NvM.c</FilePath>
+        <Folder>NvM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\NvM\NvM_Act.c</FilePath>
+        <Folder>NvM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\NvM\NvM_Act.h</FilePath>
+        <Folder>NvM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\NvM\NvM_Crc.c</FilePath>
+        <Folder>NvM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\NvM\NvM_Crc.h</FilePath>
+        <Folder>NvM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\NvM\NvM_JobProc.c</FilePath>
+        <Folder>NvM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\NvM\NvM_JobProc.h</FilePath>
+        <Folder>NvM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\NvM\NvM_Qry.c</FilePath>
+        <Folder>NvM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\NvM\NvM_Qry.h</FilePath>
+        <Folder>NvM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\NvM\NvM_Queue.c</FilePath>
+        <Folder>NvM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\NvM\NvM_Queue.h</FilePath>
+        <Folder>NvM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\NvM_Cfg.c</FilePath>
+        <Folder>NvM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\NvM_Cfg.h</FilePath>
+        <Folder>NvM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\NvM_PrivateCfg.h</FilePath>
+        <Folder>NvM</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\PduR_Com.h</FilePath>
+        <Folder>PduR</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\PduR_CanIf.h</FilePath>
+        <Folder>PduR</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\PduR\PduR.c</FilePath>
+        <Folder>PduR</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\PduR\PduR.h</FilePath>
+        <Folder>PduR</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\PduR_Cfg.h</FilePath>
+        <Folder>PduR</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\PduR_Lcfg.h</FilePath>
+        <Folder>PduR</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\PduR_Lcfg.c</FilePath>
+        <Folder>PduR</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\PduR_PBcfg.h</FilePath>
+        <Folder>PduR</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\PduR_PBcfg.c</FilePath>
+        <Folder>PduR</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\PduR_Types.h</FilePath>
+        <Folder>PduR</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Rte.c</FilePath>
+        <Folder>Rte</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Rte.h</FilePath>
+        <Folder>Rte</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Rte_Cbk.h</FilePath>
+        <Folder>Rte</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Rte_Cfg.h</FilePath>
+        <Folder>Rte</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Rte_Compiler_Cfg.h</FilePath>
+        <Folder>Rte</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Rte_DataHandleType.h</FilePath>
+        <Folder>Rte</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Rte_Hook.h</FilePath>
+        <Folder>Rte</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Rte_Main.h</FilePath>
+        <Folder>Rte</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Rte_MemMap.h</FilePath>
+        <Folder>Rte</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Rte_Type.h</FilePath>
+        <Folder>Rte</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Rte_UserTypes.h</FilePath>
+        <Folder>Rte</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\BswM_MemMap.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\ComM_MemMap.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\CtApMySwc_MemMap.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\CtSaDoor_MemMap.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\CtSaInteriorLight_MemMap.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\Dem_MemMap.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\Det_MemMap.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\EcuM_MemMap.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\NvM_MemMap.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\Rte_BswM.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\Rte_BswM_Type.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\Rte_ComM.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\Rte_ComM_Type.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\Rte_CtApMySwc.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\Rte_CtApMySwc_Type.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\Rte_CtSaDoor.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\Rte_CtSaDoor_Type.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\Rte_CtSaInteriorLight.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\Rte_CtSaInteriorLight_Type.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\Rte_Dem.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\Rte_Dem_Type.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\Rte_Det.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\Rte_Det_Type.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\Rte_EcuM.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\Rte_EcuM_Type.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\Rte_NvM.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Components\Rte_NvM_Type.h</FilePath>
+        <Folder>RteComponents</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\Source\Rte_Hook.c</FilePath>
+        <Folder>Rte</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Vtt_Rte.h</FilePath>
+        <Folder>Rte</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VStdLib\vstdlib.c</FilePath>
+        <Folder>VStdLib</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VStdLib\vstdlib.h</FilePath>
+        <Folder>VStdLib</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttCan\Can.h</FilePath>
+        <Folder>VTTCan</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttCan\Can_Local.h</FilePath>
+        <Folder>VTTCan</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttCan\Can.c</FilePath>
+        <Folder>VTTCan</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttCan\Can_Irq.c</FilePath>
+        <Folder>VTTCan</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttCan\Can_Hooks.h</FilePath>
+        <Folder>VTTCan</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttCntrl\VttCntrl_Can.c</FilePath>
+        <Folder>VTTCan</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttCntrl\VttCntrl_Can.h</FilePath>
+        <Folder>VTTCan</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Can_Cfg.h</FilePath>
+        <Folder>VTTCan</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Can_DrvGeneralTypes.h</FilePath>
+        <Folder>VTTCan</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Can_Lcfg.c</FilePath>
+        <Folder>VTTCan</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Can_PBcfg.c</FilePath>
+        <Folder>VTTCan</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\VttCntrl_Can_Cfg.c</FilePath>
+        <Folder>VTTCan</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\VttCntrl_Can_Cfg.h</FilePath>
+        <Folder>VTTCan</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VTTCntrl\VttCntrl_Det.c</FilePath>
+        <Folder>VTTCntrl</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VTTCntrl\VttCntrl_Det.h</FilePath>
+        <Folder>VTTCntrl</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VTTCntrl\VttCntrl_Base.c</FilePath>
+        <Folder>VTTCntrl</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VTTCntrl\VttCntrl_Base.h</FilePath>
+        <Folder>VTTCntrl</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VTTCntrl\VttCntrl_ModuleIncludes.h</FilePath>
+        <Folder>VTTCntrl</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttDio\Dio.c</FilePath>
+        <Folder>VTTDio</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttDio\Dio.h</FilePath>
+        <Folder>VTTDio</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Dio_Cfg.h</FilePath>
+        <Folder>VTTDio</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Dio_PBcfg.c</FilePath>
+        <Folder>VTTDio</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VTTCntrl\VttCntrl_Dio.c</FilePath>
+        <Folder>VTTDio</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VTTCntrl\VttCntrl_Dio.h</FilePath>
+        <Folder>VTTDio</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\VttCntrl_Dio_Cfg.c</FilePath>
+        <Folder>VTTDio</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\VttCntrl_Dio_Cfg.h</FilePath>
+        <Folder>VTTDio</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttFls\Fls.c</FilePath>
+        <Folder>VTTFls</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttFls\Fls.h</FilePath>
+        <Folder>VTTFls</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Fls_Cfg.h</FilePath>
+        <Folder>VTTFls</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Fls_Lcfg.c</FilePath>
+        <Folder>VTTFls</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VTTCntrl\VttCntrl_Fls.c</FilePath>
+        <Folder>VTTFls</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VTTCntrl\VttCntrl_Fls.h</FilePath>
+        <Folder>VTTFls</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\VttCntrl_Fls_Cfg.c</FilePath>
+        <Folder>VTTFls</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\VttCntrl_Fls_Cfg.h</FilePath>
+        <Folder>VTTFls</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttMcu\Mcu.c</FilePath>
+        <Folder>VTTMcu</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttMcu\Mcu.h</FilePath>
+        <Folder>VTTMcu</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Mcu_PBcfg.c</FilePath>
+        <Folder>VTTMcu</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\Mcu_Cfg.h</FilePath>
+        <Folder>VTTMcu</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VTTCntrl\VttCntrl_Mcu.c</FilePath>
+        <Folder>VTTMcu</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VTTCntrl\VttCntrl_Mcu.h</FilePath>
+        <Folder>VTTMcu</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttOs\Os.h</FilePath>
+        <Folder>VTTOs</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttOs\Os_cfg.h</FilePath>
+        <Folder>VTTOs</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttOs\osek.h</FilePath>
+        <Folder>VTTOs</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttOs\osekasrt.h</FilePath>
+        <Folder>VTTOs</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttOs\osekcov.h</FilePath>
+        <Folder>VTTOs</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttOs\osekerr.h</FilePath>
+        <Folder>VTTOs</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttOs\osekext.h</FilePath>
+        <Folder>VTTOs</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttOs\vrm.h</FilePath>
+        <Folder>VTTOs</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\BSW\VttOs\emptymac.h</FilePath>
+        <Folder>VTTOs</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\tcb.c</FilePath>
+        <Folder>VTTOs</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\tcb.h</FilePath>
+        <Folder>VTTOs</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\msg.c</FilePath>
+        <Folder>VTTOs</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\msg.h</FilePath>
+        <Folder>VTTOs</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\trustfct.h</FilePath>
+        <Folder>VTTOs</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\trustfct.c</FilePath>
+        <Folder>VTTOs</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\Source\Os_Callout_Stubs.c</FilePath>
+        <Folder>VTTOs</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+      <SourceFile>
+        <FilePath>C:\Users\nituser\Desktop\Autosar homework\M2\E1\_E1_SoftwareComponents\Appl\GenDataVtt\VTTOs_Hardware_Timer.c</FilePath>
+        <Folder>VTTOs</Folder>
+        <Category>BasicSoftware</Category>
+      </SourceFile>
+    </SourceFiles>
+    <CoreStartupBehavior />
+  </ExecutionResult>
+</BuildSnippetExecution>
